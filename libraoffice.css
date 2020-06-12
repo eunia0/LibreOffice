@@ -1,0 +1,10 @@
+body {color: black; background-color: white; font-family: "Times New Roman"}
+
+a:link {color: black;}
+a:visited {color: black;}
+a:hover {font-weight: bold;}
+a:active {color: green;}
+
+h1 {color: white; font-family: "Times New Roman"}
+h2 {color: #336600; font-family: "Times New Roman"}
+h3 {color: #00b300; font-family: "Times New Roman"}
